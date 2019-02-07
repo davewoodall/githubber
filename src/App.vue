@@ -1,8 +1,17 @@
 <template>
   <div id="app">
+    <section class="hero is-warning">
+      <div class="hero-body">
+        <div class="container">
+          <h1 class="title">
+            Githubber
+          </h1>
+        </div>
+      </div>
+    </section>
     <div class="container">
       <div class="section">
-        <GitHub msg="hello, Brightwheel!" />
+        <GitHub msg="stars" />
       </div>
     </div>
   </div>
